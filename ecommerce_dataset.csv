@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,signup_date,city,country
+1,Hannah,Moore,hannah1@example.com,2023-09-23,Phoenix,USA
+2,Ian,Taylor,ian2@example.com,2023-10-10,Phoenix,USA
+3,Uma,Wilson,uma3@example.com,2023-10-01,Los Angeles,USA
+4,Sam,King,sam4@example.com,2023-03-20,Chicago,USA
+5,Sam,Smith,sam5@example.com,2023-01-15,Los Angeles,USA
+6,Uma,King,uma6@example.com,2023-05-16,Houston,USA
+7,Tina,Smith,tina7@example.com,2023-09-12,Phoenix,USA
+8,Paula,Taylor,paula8@example.com,2023-07-27,Phoenix,USA
+9,Charlie,Smith,charlie9@example.com,2023-03-22,San Jose,USA
+10,Paula,Hall,paula10@example.com,2023-04-15,San Diego,USA
+11,Kevin,Moore,kevin11@example.com,2023-06-26,Dallas,USA
+12,Yara,Moore,yara12@example.com,2023-09-21,Los Angeles,USA
+13,Hannah,Hall,hannah13@example.com,2023-03-04,Phoenix,USA
+14,Hannah,Brown,hannah14@example.com,2023-02-19,New York,USA
+15,Michael,King,michael15@example.com,2023-08-03,Houston,USA
+16,Kevin,King,kevin16@example.com,2023-06-10,Houston,USA
+17,Paula,Young,paula17@example.com,2023-08-28,San Jose,USA
+18,Paula,Smith,paula18@example.com,2023-02-16,Dallas,USA
+19,Hannah,Taylor,hannah19@example.com,2023-10-26,San Diego,USA
+20,Bob,Wilson,bob20@example.com,2023-09-11,San Jose,USA
+21,Rachel,Smith,rachel21@example.com,2023-02-25,Dallas,USA
+22,Ian,Moore,ian22@example.com,2023-07-26,San Diego,USA
+23,Michael,Smith,michael23@example.com,2023-10-19,Houston,USA
+24,Rachel,Wilson,rachel24@example.com,2023-02-07,Dallas,USA
+25,Yara,Young,yara25@example.com,2023-05-24,Los Angeles,USA
+26,Diana,Clark,diana26@example.com,2023-07-11,San Diego,USA
+27,Yara,Brown,yara27@example.com,2023-04-12,Dallas,USA
+28,Bob,Smith,bob28@example.com,2023-03-12,San Diego,USA
+29,Quentin,Hall,quentin29@example.com,2023-03-18,Chicago,USA
+30,Tina,Moore,tina30@example.com,2023-03-25,Dallas,USA
+31,Sam,Moore,sam31@example.com,2023-09-17,San Jose,USA
+32,Paula,Smith,paula32@example.com,2023-07-08,San Diego,USA
+33,Nina,King,nina33@example.com,2023-06-07,New York,USA
+34,Ian,King,ian34@example.com,2023-10-23,Houston,USA
+35,Sam,Hall,sam35@example.com,2023-03-29,Dallas,USA
+36,Victor,Taylor,victor36@example.com,2023-01-17,Los Angeles,USA
+37,Alice,Hall,alice37@example.com,2023-06-10,Dallas,USA
+38,Nina,Taylor,nina38@example.com,2023-07-30,San Jose,USA
+39,Wendy,Brown,wendy39@example.com,2023-09-23,Houston,USA
+40,Victor,Hall,victor40@example.com,2023-09-27,Dallas,USA
+41,Fiona,Hall,fiona41@example.com,2023-09-30,San Diego,USA
+42,Victor,Wilson,victor42@example.com,2023-09-05,Houston,USA
+43,Ian,Young,ian43@example.com,2023-06-02,Houston,USA
+44,Yara,Wilson,yara44@example.com,2023-04-17,San Jose,USA
+45,Paula,Moore,paula45@example.com,2023-10-14,Phoenix,USA
+46,Diana,King,diana46@example.com,2023-10-06,Dallas,USA
+47,Laura,Brown,laura47@example.com,2023-05-29,New York,USA
+48,Wendy,Jones,wendy48@example.com,2023-06-27,San Jose,USA
+49,Xander,Hall,xander49@example.com,2023-04-20,Houston,USA
+50,Rachel,Wilson,rachel50@example.com,2023-03-12,Los Angeles,USA
